@@ -1,28 +1,3 @@
-/*
-    Desafio Super Trunfo Países - Nível Novato (Etapa 1)
-    ---------------------------------------------
-    Objetivo / Tema 1:
-    - Cadastrar duas cartas do jogo "Super Trunfo de Países" lendo os dados do usuário
-      e exibir as informações formatadas na tela.
-
-    Para cada carta, o programa lê:
-    - Estado: uma letra de 'A' a 'H' (char)
-    - Código da Carta: ex. A01, B03 (string)
-    - Nome da Cidade: nome da cidade (string)
-    - População: número de habitantes (int)
-    - Área (em km²): área da cidade (float)
-    - PIB: Produto Interno Bruto (float)
-    - Número de Pontos Turísticos: quantidade (int)
-
-    Regras desta etapa:
-    - Sem estruturas de repetição (for/while) e sem decisões (if/else).
-    - Sequência simples de leitura e exibição.
-    - Saída clara, uma informação por linha, para cada carta.
-
-    Observação:
-    - Este código foca apenas em entrada e saída de dados, sem comparações entre cartas.
-*/
-
 #include <stdio.h>
 
 int main() {
